@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExampleComponent tests should render to match snapshot 1`] = `
+<div>
+  <div>
+    Click Count: 0
+  </div>
+  <div>
+    <div
+      className="button-container"
+    >
+      <Button
+        htmlId="increment"
+        onClick={[Function]}
+      >
+        Increment
+      </Button>
+      <Button
+        htmlId="decrement"
+        onClick={[Function]}
+      >
+        Decrement
+      </Button>
+    </div>
+  </div>
+</div>
+`;
